@@ -14,7 +14,7 @@ The data is from US Based E-Commerce Sales Company about their Profits and Sales
  * The Secondary data has the Geological Codes such as Latitude, Logitude, State Name & Code.
  * Create the relationship between Customer State from Primary data and Name in Secondary data.
 ## _[HR Attrition Data Analysis](HR%20Attrition%20Data%20Analysis)_
-The Reported Data from HR Department in a Reputed Firm which contains the Attrition Data.
+The Data collected from HR Department in a Reputed Firm which contains the Attrition Data.
  * The data is analyzed here to show various valuable insights.
  * The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm.
  * The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent.
