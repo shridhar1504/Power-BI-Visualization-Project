@@ -19,3 +19,10 @@ The Data collected from HR Department in a Reputed Firm which contains the Attri
  * The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm.
  * The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent.
  * Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data.
+## _[Road Accident Report Dashboard](Road%20Accident%20Report%20Dashboard)_
+The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal.
+ * The data is analyzed to gain multiple insights which can be helpful for the Stakeholders.
+ * The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity.
+ * The report helps multiple Stakeholders. Some of the possible stakeholders who gain insights from the report are:
+   _ Ministry of Transport
+   _ Road Transport Department
