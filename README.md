@@ -24,5 +24,5 @@ The Data has Road Accident Report for the year 2021 and 2022 extracted from Mini
  * The data is analyzed to gain multiple insights which can be helpful for the Stakeholders.
  * The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity.
 1. The Possible Stakeholders who gain insights from the report are:
-   _ Ministry of Transport
-   _ Road Transport Department
+   - Ministry of Transport
+   - Road Transport Department
