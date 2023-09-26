@@ -19,6 +19,12 @@ The Data collected from HR Department in a Reputed Firm which contains the Attri
  * The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm.
  * The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent.
  * Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data.
+## _[Pizza Sales Analysis Report](Pizza%20Sales%20Analysis%20Report)_
+The Data is from Pizza Store regarding their Sales and Revenue.
+ * The Sales data is for the year of 2015 and contains 48,620 sales records.
+ * The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name.
+ * The Sales report is analysed to get further insights about sales and revenue.
+ * Also, the founded insights is visualized through colourful dashboard units along with the insights statements.
 ## _[Road Accident Report Dashboard](Road%20Accident%20Report%20Dashboard)_
 The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal.
  * The data is analyzed to gain multiple insights which can be helpful for the Stakeholders.
